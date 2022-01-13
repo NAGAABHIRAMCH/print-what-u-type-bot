@@ -1,0 +1,11 @@
+import time
+print("Type Here And I Will Print! ( I m Print Bot!)")
+time.sleep(2)
+print("Waiting...")
+time.sleep(0.4)
+print("Setting Up...")
+i = input("Type Here: ")
+print("Analyzing...")
+time.sleep(0.5)
+print("Typing...")
+print( i )
